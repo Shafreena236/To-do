@@ -2,3 +2,4 @@ Hello This is a Simple text file 1
 Change is done 
 another change is done
 Change not done
+compared the changes
